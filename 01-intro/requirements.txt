@@ -1,0 +1,6 @@
+minsearch
+openai 
+elasticsearch
+pandas 
+scikit-learn 
+ipywidgets
